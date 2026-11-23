@@ -212,8 +212,7 @@ export default function HomePage() {
             <div className="app-chip">Vercel-ready Next.js app</div>
             <h1>User Management App</h1>
             <p>
-              Fixed login, Add User, Search User, edit selected user, and delete
-              selected user(s), aligned to the attached requirements.
+              v1.0.1
             </p>
             <div className="credentials-card">
               <strong>Default demo credentials</strong>

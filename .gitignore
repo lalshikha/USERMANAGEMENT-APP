@@ -1,6 +1,21 @@
-﻿node_modules
-.next
-out
-.env*
-*.log
+﻿# Dependencies
+node_modules/
+
+# Playwright reports
+playwright-report/
+test-results/
+allure-results/
+allure-report/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
 .DS_Store
+Thumbs.db
