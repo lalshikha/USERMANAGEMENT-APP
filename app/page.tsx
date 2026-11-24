@@ -212,7 +212,7 @@ export default function HomePage() {
             <div className="app-chip">Vercel-ready Next.js app</div>
             <h1>User Management App</h1>
             <p>
-              v1.0.1
+              v1.0.2
             </p>
             <div className="credentials-card">
               <strong>Default demo credentials</strong>

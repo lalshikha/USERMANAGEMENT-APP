@@ -1,11 +1,11 @@
 {
-  "release_version": "v1.0.1",
-  "previous_tag": "v1.0.0",
-  "current_tag": "v1.0.1",
+  "release_version": "v1.0.2",
+  "previous_tag": "v1.0.1",
+  "current_tag": "v1.0.2",
   "jira_project_key": "KAN",
   "github_owner": "lalshikha",
   "github_repo": "USERMANAGEMENT-APP",
-  "regression_passed": "24",
+  "regression_passed": "30",
   "regression_failed": "0",
-  "regression_skipped": "1"
+  "regression_skipped": "3"
 }
